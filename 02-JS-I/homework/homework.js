@@ -71,12 +71,8 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  var ale = str1
-  var erika = str2
-  if(ale.length==erika.length){
-    return true
-  }
-    return false
+  if(str1.length === str2.length){
+    return true } else {return false}
 }
 
 function menosQueNoventa(num) {
