@@ -13,7 +13,7 @@
     height: 600px;
     background-color: whitesmoke;
     padding: 50px;
-    border: 1px skyblue;
+    border: 2px solid skyblue;
 }
 .aprendiendo #fix{
     position: fixed;
